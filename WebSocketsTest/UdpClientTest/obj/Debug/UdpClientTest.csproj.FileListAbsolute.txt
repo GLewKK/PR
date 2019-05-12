@@ -1,0 +1,7 @@
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\bin\Debug\UdpClientTest.exe.config
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\bin\Debug\UdpClientTest.exe
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\bin\Debug\UdpClientTest.pdb
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\obj\Debug\UdpClientTest.csprojAssemblyReference.cache
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\obj\Debug\UdpClientTest.csproj.CoreCompileInputs.cache
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\obj\Debug\UdpClientTest.exe
+C:\Users\jorik\source\repos\WebSocketsTest\UdpClientTest\obj\Debug\UdpClientTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\obj\Debug\WebSocketsTest.csprojAssemblyReference.cache
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\obj\Debug\WebSocketsTest.csproj.CoreCompileInputs.cache
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\bin\Debug\WebSocketsTest.exe.config
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\bin\Debug\WebSocketsTest.exe
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\bin\Debug\WebSocketsTest.pdb
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\obj\Debug\WebSocketsTest.exe
+C:\Users\jorik\source\repos\WebSocketsTest\WebSocketsTest\obj\Debug\WebSocketsTest.pdb

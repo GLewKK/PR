@@ -1,0 +1,7 @@
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\jorik\source\repos\WebSocketsTest\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
