@@ -43,7 +43,7 @@ namespace UdpClientTest
             //stream1.Position = 0;
 
             //var result1 = binaryFormatter1.Deserialize(stream1) as dynamic;
-
+	//test
             //if(result1 is bool)
             //{
             //    if (result1)
